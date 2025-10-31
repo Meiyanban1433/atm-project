@@ -1,6 +1,5 @@
 # login (3 ATTEMPT) 
 print("*************** WELCOME TO MY ATM ************\n")
-print("hiiii")
 attempt = 0
 pin = 0
 amount = 5000
@@ -82,3 +81,4 @@ while 1000<= pin < 10000:
                 print("ENTER CORRECT PIN ")
                 continue
  
+

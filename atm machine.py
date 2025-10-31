@@ -1,6 +1,6 @@
 # login (3 ATTEMPT) 
 print("*************** WELCOME TO MY ATM ************\n")
-
+print("hiiii")
 attempt = 0
 pin = 0
 amount = 5000
